@@ -1,0 +1,9 @@
+Feature,Importance
+lms_activity_minutes,0.6340465676001492
+feedback_score,0.1529330843091102
+help_requests,0.05966006927094137
+late_submissions,0.04708212347915386
+assignment_completion_rate,0.037993868835506914
+assessment_score,0.031979989795507036
+attendance_rate,0.025750033813988132
+lms_logins,0.010554262895643285

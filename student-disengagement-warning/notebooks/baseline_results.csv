@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1_Score,Students_Flagged,Actual_Disengaged
+Attendance-only baseline,0.6112,0.3386569872958258,0.3111037012337446,0.32429614181439,2755,2999
