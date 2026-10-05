@@ -1,0 +1,4 @@
+case,attendance_rate,lms_logins,lms_activity_minutes,assignment_completion_rate,late_submissions,assessment_score,help_requests,feedback_score,baseline_flag,model_prediction,risk_probability,confidence,risk_level,interpretation
+Case 1 - Hidden Disengagement,92,4,55,45,4,48,4,2.2,0,1,0.9817392825928729,0.9817392825928729,High,Baseline may miss hidden disengagement because attendance is high.
+Case 2 - Low Attendance but Engaged,65,18,280,92,0,88,0,4.5,1,0,0.052392514989625535,0.9476074850103745,Low,Baseline may over-flag the student because attendance is low.
+Case 3 - Conflicting Signals,78,10,160,60,2,70,2,3.0,0,1,0.9390494968329044,0.9390494968329044,High,"Multiple signals conflict, so human review is appropriate."

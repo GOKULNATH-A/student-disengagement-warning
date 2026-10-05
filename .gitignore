@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Python test/cache
+.pytest_cache/
+.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated model/cache files
+*.pkl
